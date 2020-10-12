@@ -36,4 +36,3 @@ Wear your coat of plates with your underarmor or arming wear. Attach your straps
  
 There you have it, your very own coat of plates!
  
- [alt text](https://collectionapi.metmuseum.org/api/collection/v1/iiif/34331/1678607/main-image)
