@@ -43,4 +43,4 @@ A 15th century coat of plates, inside
 An early reproduction of a Visby coat of plates
 
 ![Manuscript coat of plates](http://manuscriptminiatures.com/media/cache/manuscriptminiatures.com/original/620-15_large.jpg)
-A contemporary artistic depiction of two mounted soldiers in coat of plates
+A contemporary artistic depiction of two mounted soldiers in coats of plates
