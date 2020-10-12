@@ -19,7 +19,8 @@ The first step in making a coat of plates is by collecting the materials and too
 10. Sanding tool
 11. Safety goggles and gloves
 12. C-clamps
-13. Pattern (Here is a link to a few patterns from the Visby mass grave http://www.armourarchive.org/patterns/wisby/)
+13. Bolt cutters
+14. Pattern (Here is a link to a few patterns from the Visby mass grave http://www.armourarchive.org/patterns/wisby/)
  
 Once you have your materials you can begin construction.
 ## Step 2: Cutting
@@ -28,5 +29,7 @@ Trace your pattern onto the sheet metal and begin cutting. Be patient and do not
 Use your c-clamps to stick the wood blocks on the end of a table. Make sure there is enough space between them to drop the rod through. Place your metal pieces between the blocks and place the rod on top. Use the mallet to hammer the rod, bending the metal plates. This is a quick and easy way to get them to bend with your body. Make sure that they do not bend too much or too little, just enough to be able to wrap around your body. If you also wish, you could simply bring out a hammer and anvil and shape them by hand. The former is an easier way, however.
 ## Step 4: Rivet Holes
 Using your drill or hole punching machine to create rivet holes on the edges of the metal plates. A certain number of holes and their positions are determined by their pattern. Check to see if the hole is the right size by inserting your roofing nails through it.
-## Step 5: Preparing Cover
-Cut out your hemp and cloth/leather cover for your coat of plates. The cover is to protect the metal from the elements and to act as a base to which the plates are riveted to. The hemp is a layer underneath it to reinforce it. Lay it
+## Step 5: Preparing Cover and Riveting.
+Cut out your hemp and cloth/leather cover for your coat of plates. The cover is to protect the metal from the elements and to act as a base to which the plates are riveted to. The hemp is a layer underneath it to reinforce it. Align your metal plates and lay the cloth over it. Make sure the ends of the cloth is sewed off, and stick your nails into the rivet holes. Clip off half of the nails, and pean the rest of it down with a hammer. The coat of plates should look "done."
+## Step 6: Straps and Buckles
+Wear your coat of plates with your underarmor or armign wear. Attach your straps and buckles either on the side, front, or back depending on your pattern. Pull it as tight as you can until it is comfortable and well fitted, then clip off the excess leather and punch holes into it. By now your armor should be finished and ready for usage.
