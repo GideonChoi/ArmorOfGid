@@ -36,5 +36,4 @@ Wear your coat of plates with your underarmor or arming wear. Attach your straps
  
 There you have it, your very own coat of plates!
  
-![15th century coat of plates, inside]
-(https://www.metmuseum.org/art/collection/search/34331)
+![15th century coat of plates, inside](https://www.metmuseum.org/art/collection/search/34331)
