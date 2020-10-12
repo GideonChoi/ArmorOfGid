@@ -39,4 +39,5 @@ There you have it, your very own coat of plates!
 ![15th century coat of plates, inside](https://collectionapi.metmuseum.org/api/collection/v1/iiif/34331/1678607/main-image)
 *A 15th century coat of plates, inside
 
-
+![Visby coat of plates reproduction](https://i.pinimg.com/originals/a9/2d/5f/a92d5f029562ecc99ffb60818e618770.jpg)
+*An early reproduction of a Visby coat of plates
