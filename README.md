@@ -1,2 +1,2 @@
-# ArmorOfGid
-The results of my armor projects.
+# This is Gideon's first actual website.
+Gideon's first website.
