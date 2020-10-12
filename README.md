@@ -37,12 +37,12 @@ Wear your coat of plates with your underarmor or arming wear. Attach your straps
 There you have it, your very own coat of plates!
  
  
- ## Image Gallery
+ ## Image Gallerym with Links
 ![15th century coat of plates, inside](https://collectionapi.metmuseum.org/api/collection/v1/iiif/34331/1678607/main-image)
-A 15th century coat of plates, inside
+A 15th century coat of plates, inside https://www.metmuseum.org/art/collection/search/34331
 
 ![Visby coat of plates reproduction](https://i.pinimg.com/originals/a9/2d/5f/a92d5f029562ecc99ffb60818e618770.jpg)
-An early reproduction of a Visby coat of plates
+An early reproduction of a Visby coat of plates https://www.pinterest.es/pin/503629170802899714/?nic_v2=1a6t7ENVL
 
 ![Manuscript coat of plates](http://manuscriptminiatures.com/media/cache/manuscriptminiatures.com/original/620-15_large.jpg)
-A contemporary artistic depiction of two mounted soldiers in coats of plates
+A contemporary artistic depiction of two mounted soldiers in coats of plates http://manuscriptminiatures.com/4053/11448/
