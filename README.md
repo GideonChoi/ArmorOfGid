@@ -44,5 +44,8 @@ A 15th century coat of plates, inside https://www.metmuseum.org/art/collection/s
 ![Visby coat of plates reproduction](https://i.pinimg.com/originals/a9/2d/5f/a92d5f029562ecc99ffb60818e618770.jpg)
 An early reproduction of a Visby coat of plates https://www.pinterest.es/pin/503629170802899714/?nic_v2=1a6t7ENVL
 
+![15th century reproduction](https://cdn.shopify.com/s/files/1/0941/1252/products/Leeds_Brigandine_-_15th_Century_reenactment_armour_reproduction_2048x2048.jpg?v=1512870113)
+A reproduction of a later form of the coat of plates, the brigandine. It is made up of a large number of smaller metal plates, which can be easily identified by the large number of rivets on its surface https://www.makeyourownmedieval.com/products/brigandine-leeds-15th-century
+
 ![Manuscript coat of plates](http://manuscriptminiatures.com/media/cache/manuscriptminiatures.com/original/620-15_large.jpg)
 A contemporary artistic depiction of two mounted soldiers in coats of plates http://manuscriptminiatures.com/4053/11448/
