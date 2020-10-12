@@ -2,6 +2,9 @@
 This website is a short guide on constructing a late 14th century coat of plates.
  
 A coat of plates was a type of medieval armor made up overlapping sheets of metal riveted to a fabric base. This type of armor was cheaper and easier to produce than plate armor, so it was a mainstay early on in the development of full medieval plate armor, and later being found more common with lesser soldiers. Few surviving examples remain but a mass grave dating to the Battle of Visby, 1361, has yielded armor that would be considered outdated and peasant-grade armor at the time. A Visby coat of plates is the objective of this instruction guide and would be optimal for a 14th century man-at-arms or a peasant soldier.
+ 
+## This is not a professional guide
+This guide is written by a high school student for a homework assignment. Do not take this guide to heart, this is just for school and for fun. Enjoy.
 ## Step 1: Materials
 The first step in making a coat of plates is by collecting the materials and tools needed to make it. You will need:
 1. Sheet steel, 20-16 gauge depending on its purpose from light reenacting to heavy combat
@@ -9,14 +12,21 @@ The first step in making a coat of plates is by collecting the materials and too
 3. Cover cloth, such as leather, velvet, or just wool
 4. Roofing nails
 5. Leather straps and buckles
-6. Ball and pean hammer
-7. Two wood blocks and a rolling pin
+6. Ball and pean hammer and rubber mallet
+7. Two wood blocks and wood/metal rod
 8. Drill or hole punching machine
 9. Cutting tool
 10. Sanding tool
 11. Safety goggles and gloves
-12. Pattern (Here is a link to a few patterns from the Visby mass grave http://www.armourarchive.org/patterns/wisby/)
+12. C-clamps
+13. Pattern (Here is a link to a few patterns from the Visby mass grave http://www.armourarchive.org/patterns/wisby/)
  
 Once you have your materials you can begin construction.
 ## Step 2: Cutting
-Trace your pattern onto the sheet metal and begin cutting. Be patient and do not rush it. If you are too keen to cut quickly you could cut off course and into the wrong places. After you are finished cutting, sand the edges until they are smooth and no longer sharp.
+Trace your pattern onto the sheet metal and begin cutting. Be patient and do not rush it. If you are too keen to cut quickly you could cut off course and into the wrong places. After you are finished cutting, sand the edges until they are smooth and no longer sharp. Next up is forming.
+## Step 3: Forming
+Use your c-clamps to stick the wood blocks on the end of a table. Make sure there is enough space between them to drop the rod through. Place your metal pieces between the blocks and place the rod on top. Use the mallet to hammer the rod, bending the metal plates. This is a quick and easy way to get them to bend with your body. Make sure that they do not bend too much or too little, just enough to be able to wrap around your body. If you also wish, you could simply bring out a hammer and anvil and shape them by hand. The former is an easier way, however.
+## Step 4: Rivet Holes
+Using your drill or hole punching machine to create rivet holes on the edges of the metal plates. A certain number of holes and their positions are determined by their pattern. Check to see if the hole is the right size by inserting your roofing nails through it.
+## Step 5: Preparing Cover
+Cut out your hemp and cloth/leather cover for your coat of plates. The cover is to protect the metal from the elements and to act as a base to which the plates are riveted to. The hemp is a layer underneath it to reinforce it. Lay it
